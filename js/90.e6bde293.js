@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdecent_forum_fe"]=self["webpackChunkdecent_forum_fe"]||[]).push([[90],{6090:(e,n,r)=>{r.r(n),r.d(n,{default:()=>s});var t=r(3673);function u(e,n,r,u,c,a){const f=(0,t.up)("router-view");return(0,t.wg)(),(0,t.j4)(f)}const c=(0,t.aZ)({name:"PageIndex"});var a=r(4260);const f=(0,a.Z)(c,[["render",u]]),s=f}}]);
